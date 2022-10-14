@@ -1,0 +1,19 @@
+/*body {*/
+    /*background: rgb(26, 53, 91);*/
+    /*color: white;*/
+/*}*/
+
+#my_photo {
+    width: 175px;
+    border: 2px solid black;
+    border-radius: 150px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: burlywood;
+}
+
